@@ -2,11 +2,9 @@
 Este repo es del curso de python del diplomado PUCP 
 # michi para generar títulos
 # students
-1. Andrea - one day
+1. Andrea - one day - sadra bullock
 2. victor - gladiador
 3. victor - spiderman
 4. noelia - rey leon
 5. valeria - volver al futuro
-6. sandra bullock
-7. robert pattinson
-8. cameron diaz 
+  
