@@ -8,3 +8,11 @@ Este repo es del curso de python del diplomado PUCP
 4. noelia - rey leon
 5. valeria - volver al futuro
   
+
+# carrera
+1. antro 
+2. socio
+3. eco
+4. derecho 
+5. psico
+6. mate
