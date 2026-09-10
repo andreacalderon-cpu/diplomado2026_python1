@@ -7,3 +7,6 @@ Este repo es del curso de python del diplomado PUCP
 3. victor - spiderman
 4. noelia - rey leon
 5. valeria - volver al futuro
+6. sandra bullock
+7. robert pattinson
+8. cameron diaz 
