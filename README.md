@@ -15,3 +15,4 @@ Este repo es del curso de python del diplomado PUCP
 3. eco
 4. derecho 
 5. psico
+6. mate
